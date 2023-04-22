@@ -1,7 +1,8 @@
-#include<stdio.h>
-int main(){
+#include <stdio.h>
+int main()
+{
 
-printf("\nWelcome to Infoway!!!!");
+    printf("\nWelcome to Infoway!!!!");
 
- return 0;   
+    return 0;
 }
